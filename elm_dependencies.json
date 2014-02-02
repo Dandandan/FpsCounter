@@ -1,0 +1,9 @@
+{ "version": "0.1.0"
+, "summary": "Frame rate counter"
+, "description": "Displays the framerate of the program"
+, "license": "BSD3"
+, "repository": "https://github.com/Dandandan/FpsCounter.git"
+, "exposed-modules": [ "FpsCounter" ]
+, "elm-version": "0.11"
+, "dependencies": {}
+}
