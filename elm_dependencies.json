@@ -1,6 +1,6 @@
-{ "version": "0.1.0"
+{ "version": "0.1.4"
 , "summary": "Frame rate counter"
-, "description": "Displays the framerate of the program"
+, "description": "Displays the frame rate of the program"
 , "license": "BSD3"
 , "repository": "https://github.com/Dandandan/FpsCounter.git"
 , "exposed-modules": [ "FpsCounter" ]
